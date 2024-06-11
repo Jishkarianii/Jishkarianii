@@ -4,7 +4,7 @@
 <h3 align="center">Front End Developer / Web Developer</h3>
 
 <p align="left">
-&nbsp;&nbsp;&nbsp; I’m a hardworking and ambitious front end (React) developer from Georgia, who wants to learn as much as possible to enhance his skills as an individual and also as a team worker.
+&nbsp;&nbsp;&nbsp; I’m a hardworking and ambitious front end developer from Georgia, who wants to learn as much as possible to enhance his skills as an individual and also as a team worker.
 </p>
 
 
